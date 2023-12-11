@@ -1,9 +1,4 @@
-# COURSE CPSC 231 FALL 2021
-# INSTRUCTOR: Jonathan Hudson
-# Tutorial: TA Name
-# ID: XXXXXXXX
-# Date:
-# Description:
+
 
 #COURSE CPSC 231 FALL 2021
 #INSTRUCTOR: Jonathon Hudson
